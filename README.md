@@ -172,7 +172,7 @@ java -cp out Main
 
 **Figure 2.1: Students are registered with a student number, name, and year level.**
 
-![Registering students](screenshots/add-records.png)
+![Registering students](screenshot/S2.png)
 
 **Figure 2.2: All stored records shown in the order they were registered.**
 
