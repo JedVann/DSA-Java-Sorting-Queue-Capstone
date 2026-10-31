@@ -176,7 +176,7 @@ java -cp out Main
 
 **Figure 2.2: All stored records shown in the order they were registered.**
 
-![Displaying records](screenshots/display-records.png)
+![Displaying records](screenshot/S3.png)
 
 ### 3. Searching for a Student
 
