@@ -188,7 +188,7 @@ java -cp out Main
 
 **Figure 4.1: Registered students are added to the queue, and the system reports each one's position.**
 
-![Enqueue](screenshots/enqueue.png)
+![Enqueue](screenshot/S5.1.png)
 
 **Figure 4.2: Display queue shows the waiting students from front to back.**
 
