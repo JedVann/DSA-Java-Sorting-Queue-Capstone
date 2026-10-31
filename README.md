@@ -196,7 +196,7 @@ java -cp out Main
 
 **Figure 4.3: Peek shows the next student without removing them.**
 
-![Peek](screenshots/peek.png)
+![Peek](screenshot/S5.5.png)
 
 **Figure 4.4: Dequeue removes the front student from the queue and shows who is being served.**
 
