@@ -230,6 +230,7 @@ java -cp out Main
 
 **Figure 9.1: Non-numeric and out-of-range menu entries are rejected and the program prompts again.**
 
+
 ![Invalid menu input](screenshots/validation-menu.png)
 
 **Figure 9.2: Blank names, a duplicate student number, and an out-of-range year level are rejected.**
