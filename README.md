@@ -166,7 +166,7 @@ java -cp out Main
 
 **Figure 1.1: The main menu showing all available operations.**
 
-![Main menu](screenshots/main-menu.png)
+![Main menu](screenshot/S1.png)
 
 ### 2. Adding and Displaying Records
 
