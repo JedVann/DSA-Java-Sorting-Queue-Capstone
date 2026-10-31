@@ -218,7 +218,7 @@ java -cp out Main
 
 **Figure 7.1: Records before and after Insertion Sort.**
 
-![Insertion Sort](screenshots/sorting-algorithm-2.png)
+![Insertion Sort](screenshot/S7.2.png)
 
 ### 8. Queue Unaffected by Sorting
 
