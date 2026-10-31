@@ -235,7 +235,7 @@ java -cp out Main
 
 **Figure 9.2: Blank names, a duplicate student number, and an out-of-range year level are rejected.**
 
-![Invalid fields](screenshots/validation-fields.png)
+![Invalid fields](screenshot/S9.2.png)
 
 **Figure 9.3: Dequeuing from an empty queue and enqueuing or searching for a student that doesn't exist display clear messages.**
 
