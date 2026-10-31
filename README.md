@@ -206,7 +206,7 @@ java -cp out Main
 
 **Figure 5.1: Students are served in the same order they were enqueued, so the first student added is the first served.**
 
-![FIFO behavior](screenshots/fifo-behavior.png)
+![FIFO behavior](screenshot/S6.1.png)
 
 ### 6. Bubble Sort (Algorithm 1)
 
