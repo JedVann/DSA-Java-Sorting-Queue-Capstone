@@ -224,7 +224,7 @@ java -cp out Main
 
 **Figure 8.1: The queue is displayed after sorting and shows the same arrival order as before.**
 
-![Queue after sorting](screenshots/queue-after-sorting.png)
+![Queue after sorting](screenshot/S8.2.png)
 
 ### 9. Input Validation and Error Messages
 
