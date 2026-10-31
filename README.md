@@ -182,7 +182,7 @@ java -cp out Main
 
 **Figure 3.1: Searching by student number or name displays the matching records, and partial entries are accepted.**
 
-![Search](screenshots/search-student.png)
+![Search](screenshot/S4.png)
 
 ### 4. Queue Operations
 
