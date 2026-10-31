@@ -239,4 +239,4 @@ java -cp out Main
 
 **Figure 9.3: Dequeuing from an empty queue and enqueuing or searching for a student that doesn't exist display clear messages.**
 
-![Empty queue and not found](screenshots/validation-empty.png)
+![Empty queue and not found](screenshot/10.3.png)
