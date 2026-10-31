@@ -192,7 +192,7 @@ java -cp out Main
 
 **Figure 4.2: Display queue shows the waiting students from front to back.**
 
-![Display queue](screenshots/display-queue.png)
+![Display queue](screenshot/S5.4.png)
 
 **Figure 4.3: Peek shows the next student without removing them.**
 
