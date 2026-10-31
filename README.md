@@ -200,7 +200,7 @@ java -cp out Main
 
 **Figure 4.4: Dequeue removes the front student from the queue and shows who is being served.**
 
-![Dequeue](screenshots/dequeue.png)
+![Dequeue](screenshot/S5.6.png)
 
 ### 5. FIFO Behavior
 
