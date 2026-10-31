@@ -212,7 +212,7 @@ java -cp out Main
 
 **Figure 6.1: Records before and after Bubble Sort.**
 
-![Bubble Sort](screenshots/sorting-algorithm-1.png)
+![Bubble Sort](screenshot/S7.1.png)
 
 ### 7. Insertion Sort (Algorithm 2)
 
